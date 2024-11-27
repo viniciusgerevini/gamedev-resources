@@ -1,4 +1,4 @@
-# This is Vini's Godot Samples
+# This is Vini's Gamedev Resources
 
 Hello there! This is an index with the relevant projects, plugins and examples I've implemented. Mostly Godot stuff.
 
