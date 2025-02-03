@@ -8,6 +8,7 @@ If you have any questions, ideas, suggestions or game dev topics to chat, feel f
 - [Godot Plugins](#godot-plugins)
 - [Projects](#projects)
     - [Game AI](#game-ai)
+    - [Tutorials and Learning](#tutorials-and-learning)
     - [Misc](#misc)
 - [Contact](#where-to-find-me)
 
@@ -23,6 +24,9 @@ If you have any questions, ideas, suggestions or game dev topics to chat, feel f
 - [Utility AI](https://github.com/viniciusgerevini/godot-utility-ai) - (Godot 4)
 - [Behaviour Tree](https://github.com/viniciusgerevini/godot-behavior-tree-example) - (Godot 3)
 - [Boids](https://github.com/viniciusgerevini/godot-boids) - Flocking algorithm implementation (Godot 3)
+
+### Tutorials and Learning
+- [Learn Godot Challenge](https://github.com/viniciusgerevini/learn-godot-challenge) - (Godot 4)
 
 ### Misc
 - [Sprite color replacement in runtime](https://github.com/viniciusgerevini/godot-color-replacement-example) - Three methods for color replacement (Godot 3)
